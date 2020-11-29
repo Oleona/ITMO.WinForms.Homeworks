@@ -1,1 +1,2 @@
-# ITMO.WinForms.Homeworks
+Домашние работы по курсу Windows Forms
+ИТМО, осень 2020
